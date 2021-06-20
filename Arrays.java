@@ -5,5 +5,8 @@ public class Arrays {
 		int u[]= {4,58,2,61};
 		n[0]=1;
 		System.out.println(u[1]);
+		System.out.println(u[1]);
+		System.out.println(u[1]);
+		System.out.println(u[1]);
 	}
 }
